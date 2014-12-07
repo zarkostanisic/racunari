@@ -1,0 +1,8 @@
+.search_bt{
+  padding: 2px;
+}
+
+#proizvod_cart .search_bt{
+  margin: 0px;
+  padding: 5.5px;
+}
